@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wongcyrus
+- 👋 Hi, I’m @wongcyrus from Hong Kong!
 - 👀 I’m interested in all cloud technolgies and love to build opensource tools! 
 - 🌱 I keep learning AWS, Azure, and GCP. Also, I am interested in learning coding and level up my skills.
 - 💞️ I’m looking to collaborate on Cloud education related project! 
@@ -7,6 +7,7 @@
 I am
 - AWS Machine Learning Hero https://aws.amazon.com/heroes/asia-pacific/cyrus-wong/
 - Microsoft Azure MVP https://mvp.microsoft.com/en-us/PublicProfile/5005120?fullName=Chun%20Yin%2C%20Cyrus%20Wong
+- Senior Lecturer am working at Department of Information Technology (IT) IVE (Lee Wai Lee) 
 - AWS Academy Leadership Council Members
 - AWS Educate Cloud Ambassador Council members
 - AWS Academy Accredited Instructor
