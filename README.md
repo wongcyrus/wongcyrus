@@ -14,6 +14,7 @@ I am
 - AWS Academy Accredited Instructor
 - Microsoft Certified Trainer
 - Microsoft Learn for Educators Ambassador
+- Google Champion Innovator - Serverless App Development https://developers.google.com/profile/u/cyruswong
 - 廣東話 Youtuber https://www.youtube.com/@CyrusWong
 - Twitter https://twitter.com/wongcyrus 
 
