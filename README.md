@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wongcyrus from Hong Kong!
-- 👀 I’m interested in all cloud technolgies and love to build opensource tools! 
+- 👀 I’m interested in all cloud technologies and love to build opensource tools! 
 - 🌱 I keep learning AWS, Azure, and GCP. Also, I am interested in learning coding and level up my skills.
 - 💞️ I’m looking to collaborate on Cloud education related project! 
 - 📫 How to reach me? Connect me in LinkedIn https://www.linkedin.com/in/cyruswong/ 
