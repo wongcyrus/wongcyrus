@@ -7,7 +7,7 @@
 I am
 - AWS Machine Learning Hero https://aws.amazon.com/heroes/asia-pacific/cyrus-wong/
 - Microsoft Azure MVP https://mvp.microsoft.com/en-us/PublicProfile/5005120
-- Google Developer Expert - Google Cloud
+- Google Developer Experts - Google Cloud
 - Senior Lecturer am working at Department of Information Technology IVE (Lee Wai Lee) 
 - AWS Academy Leadership Council Members
 - AWS Educate Cloud Ambassador Council members
