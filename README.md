@@ -16,7 +16,8 @@ I am
 - Microsoft Learn for Educators Ambassador
 - Google Champion Innovator - Serverless App Development https://developers.google.com/profile/u/cyruswong
 - 廣東話 Youtuber https://www.youtube.com/@CyrusWong
-- Twitter https://twitter.com/wongcyrus 
+- Twitter https://twitter.com/wongcyrus
+- Medium https://medium.com/@wongcyrus
 
 <!---
 wongcyrus/wongcyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
