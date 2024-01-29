@@ -5,19 +5,21 @@
 - 📫 How to reach me? Connect me in LinkedIn https://www.linkedin.com/in/cyruswong/ 
 
 I am
-- AWS Machine Learning Hero https://aws.amazon.com/heroes/asia-pacific/cyrus-wong/
-- Microsoft Azure MVP https://mvp.microsoft.com/en-US/MVP/profile/86da86ff-8786-ed11-aad1-000d3a197333
-- Google Developer Experts - Google Cloud https://developers.google.com/profile/u/cyruswong
-- Senior Lecturer am working at the Department of Information Technology IVE (Lee Wai Lee) - Hong Kong
+- [AWS Machine Learning Hero](https://aws.amazon.com/heroes/asia-pacific/cyrus-wong/)
+- [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/MVP/profile/86da86ff-8786-ed11-aad1-000d3a197333)
+- [Google Developer Experts - Google Cloud Platform](https://developers.google.com/profile/u/cyruswong)
+- Senior Lecturer [Hong Kong Institute of Information Technology](https://hkiit.edu.hk/)
 - AWS Academy Leadership Council Members
 - AWS Educate Cloud Ambassador Council members
 - AWS Academy Accredited Instructor
 - Microsoft Certified Trainer
 - Microsoft Learn for Educators Ambassador
-- Google Champion Innovator - Serverless App Development https://developers.google.com/profile/u/cyruswong
-- 廣東話 Youtuber https://www.youtube.com/@CyrusWong
-- Twitter https://twitter.com/wongcyrus
-- Medium https://medium.com/@wongcyrus
+- [Google Champion Innovator - Serverless App Development](https://developers.google.com/profile/u/cyruswong)
+Connect with me
+- [LinkedIn](https://www.linkedin.com/in/cyruswong/)
+- [Youtube](https://www.youtube.com/@CyrusWong)
+- [Twitter/X](https://twitter.com/wongcyrus)
+- [Medium](https://medium.com/@wongcyrus)
 
 <!---
 wongcyrus/wongcyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
