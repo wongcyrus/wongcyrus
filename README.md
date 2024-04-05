@@ -18,7 +18,7 @@ I am
 
 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/cyruswong/)
-- [Youtube](https://www.youtube.com/@CyrusWong)
+- [Youtube](https://www.youtube.com/c/CyrusWong)
 - [Twitter/X](https://twitter.com/wongcyrus)
 - [Medium](https://medium.com/@wongcyrus)
 
