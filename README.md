@@ -21,6 +21,7 @@ Connect with me
 - [Youtube](https://www.youtube.com/channel/UCjzFlDS8Zu8sIRJWeldfJ1w)
 - [Twitter/X](https://twitter.com/wongcyrus)
 - [Medium](https://medium.com/@wongcyrus)
+- [Blue Sky](https://bsky.app/profile/cyruswong.bsky.social)
 
 <!---
 wongcyrus/wongcyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
