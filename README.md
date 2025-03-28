@@ -7,7 +7,7 @@
 I am
 - [AWS Machine Learning Hero](https://aws.amazon.com/heroes/asia-pacific/cyrus-wong/)
 - [Microsoft Azure AI MVP](https://mvp.microsoft.com/en-US/MVP/profile/86da86ff-8786-ed11-aad1-000d3a197333)
-- [Google Developer Experts - GCP & AI/ML (GenAI)](https://developers.google.com/profile/u/cyruswong)
+- [Google Developer Experts - GCP & AI (GenAI)](https://developers.google.com/profile/u/cyruswong)
 - Senior Lecturer [Hong Kong Institute of Information Technology](https://hkiit.edu.hk/)
 - AWS Academy Leadership Council Members
 - AWS Educate Cloud Ambassador Council members
