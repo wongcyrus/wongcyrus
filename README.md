@@ -18,10 +18,12 @@ I am
 
 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/cyruswong/)
-- [Youtube](https://www.youtube.com/channel/UCjzFlDS8Zu8sIRJWeldfJ1w)
+- [Youtube](https://www.youtube.com/@cyruswong)
 - [Twitter/X](https://twitter.com/wongcyrus)
 - [Medium](https://medium.com/@wongcyrus)
 - [Blue Sky](https://bsky.app/profile/cyruswong.bsky.social)
+- [Instagram](https://www.instagram.com/wongcyrus.cloud/)
+- [Threads](https://www.threads.com/@wongcyrus.cloud)
 
 <!---
 wongcyrus/wongcyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
