@@ -5,7 +5,7 @@
 - 📫 How to reach me? Connect me in LinkedIn https://www.linkedin.com/in/cyruswong/ 
 
 I am
-- [AWS Machine Learning Hero](https://aws.amazon.com/heroes/asia-pacific/cyrus-wong/)
+- [AWS Machine Learning Hero](https://builder.aws.com/community/@wongcyrus)
 - [Microsoft Azure AI MVP](https://mvp.microsoft.com/en-US/MVP/profile/86da86ff-8786-ed11-aad1-000d3a197333)
 - [Google Developer Experts - GCP & AI (GenAI)](https://developers.google.com/profile/u/cyruswong)
 - Senior Lecturer [Hong Kong Institute of Information Technology](https://hkiit.edu.hk/)
@@ -14,7 +14,7 @@ I am
 - AWS Academy Accredited Instructor
 - Microsoft Certified Trainer
 - Microsoft Learn for Educators Ambassador
-- [Google Champion Innovator - Serverless App Development](https://developers.google.com/profile/u/cyruswong)
+- Google Developer Advisory Board
 
 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/cyruswong/)
