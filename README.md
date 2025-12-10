@@ -5,7 +5,7 @@
 - 📫 How to reach me? Connect me in LinkedIn https://www.linkedin.com/in/cyruswong/ 
 
 I am
-- [AWS AI Hero](https://builder.aws.com/community/@wongcyrus)
+- [AWS AI Hero](https://builder.aws.com/community/heroes/CyrusWong)
 - [Microsoft Azure AI MVP](https://mvp.microsoft.com/en-US/MVP/profile/86da86ff-8786-ed11-aad1-000d3a197333)
 - [Google Developer Experts - AI & GCP](https://developers.google.com/profile/u/cyruswong)
 - Senior Lecturer [Hong Kong Institute of Information Technology](https://hkiit.edu.hk/)
