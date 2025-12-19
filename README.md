@@ -2,7 +2,11 @@
 - 👀 I’m interested in all cloud technologies and love to build opensource tools! 
 - 🌱 I keep learning AWS, Azure, and GCP. Also, I am interested in learning coding and level up my skills.
 - 💞️ I’m looking to collaborate on Cloud education related project! 
-- 📫 How to reach me? Connect me in LinkedIn https://www.linkedin.com/in/cyruswong/ 
+- 📫 How to reach me? Connect me in LinkedIn https://www.linkedin.com/in/cyruswong/
+
+Cyrus Wong is an accomplished senior lecturer who oversees the Higher Diploma program in Cloud and Data Centre Administration at the Hong Kong Institute of Information Technology (HKIIT) at IVE(Lee Wai Lee) in Hong Kong. He is a passionate advocate for the adoption of cloud technology across various media and events. With his extensive knowledge and expertise, he has earned prestigious recognitions such as AWS AI Hero, Microsoft MVP - Azure AI, and Google Developer Expert for AI & Google Cloud Platform.
+
+黃俊彥是香港香港資訊科技學院(HKIIT)位於 IVE(李惠利)資訊科技系雲端系統及數據中心管理高級文憑的高級講師，擁有豐富的知識和專業技能。他熱衷於在各種媒體和活動中推廣雲端技術。由於他的專業知識和專業技能，他獲得亞馬遜雲端運算服務AI英雄、微軟Azure AI最有價值專家和Google AI & 雲端平台的Google開發者專家等著名榮譽稱號，是世上唯一能夠獲得IT業界三巨頭同時公認的專家。
 
 I am
 - [AWS AI Hero](https://builder.aws.com/community/heroes/CyrusWong)
